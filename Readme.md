@@ -48,14 +48,14 @@
 Ver Sketches interactivos
 [LINK Sketch MARVELAPP INTERACTIVO ](https://marvelapp.com/8189684)
 
-![Pantallazo](wireframes.png)
+![Pantallazo](assets/wireframes.png)
 
 - Luego creamos el wireframe de alta resolución y lo llevamos a testeo. Del resultado mejoramos pequeños detalles cómo icónos o colores que provocaban confusión en los usuarios.
 
 Ver wireframes de alta resolución
 [LINK WIREFRAMES MARVELAPP V.2 ](https://marvelapp.com/40hddj5/screen/39138866)
 
-![Pantallazo](wireframe2.png)
+![Pantallazo](assets/wireframe2.png)
 
 **Conclusión**
 
