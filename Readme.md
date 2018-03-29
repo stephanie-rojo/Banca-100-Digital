@@ -12,7 +12,7 @@
 
 - Se desarrolló una solución para App Móvil, que pueda ayudar a los usuarios manejar sus finanzas mediante el ahorro voluntario y planificado, cada vez que se complete un ahorro gana un premio que descuente por un mes los costos asociados a la mantención y así incentivar buenos hábitos en el manejo de finanzas.
 
-## ¿Cómo llegamos a solución?
+## ¿Cómo llegamos a la solución?
 
 ## Proceso
 
